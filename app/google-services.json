@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "271969491206",
+    "firebase_url": "https://teamwork-us.firebaseio.com",
+    "project_id": "teamwork-us",
+    "storage_bucket": "teamwork-us.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271969491206:android:4589379d0cf5002607e687",
+        "android_client_info": {
+          "package_name": "com.example.teamworkus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271969491206-i9v3gn6mr7l43dl140pgc506etvq9qsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNCjb4TgFENYrNjEqTYTY9ZVy0UZrtChU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271969491206-i9v3gn6mr7l43dl140pgc506etvq9qsd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
